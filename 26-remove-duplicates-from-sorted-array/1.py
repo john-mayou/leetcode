@@ -21,7 +21,7 @@ def testRemoveDuplicates():
     assert(k == 2)
     assert(nums[:k] == [1, 2])
     
-    nums = [0,0,1,1,1,2,2,3,3,4]
+    nums = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
     k = removeDuplicates(nums) 
     assert(k == 5)
     assert(nums[:k] == [0, 1, 2, 3, 4])
