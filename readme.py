@@ -8,10 +8,10 @@ for dir in [f for f in os.listdir('.') if os.path.isdir(f) and not f.startswith(
   links.append(f'- [{parts[0]}. {' '.join(parts[1:]).title()}](./{dir})')
 
 readme = dedent("""\
-  This is a collection of leetcode solutions with detailed explanations, including brute-force and optimal approaches, along with time and space complexity analysis.
+  This is a collection of Leetcode solutions with detailed explanations, including brute-force and optimal approaches, as well as time and space complexity analysis.
   
-  These files are also viewable on my personal website at [johnmayou.com](johnmayou.com).
-
+  These files are also viewable on my [personal website](https://johnmayou.com) and additional solutions can be found on my [Leetcode profile](https://leetcode.com/u/johnmayou/).
+  
   List of problems:
   
   """)
