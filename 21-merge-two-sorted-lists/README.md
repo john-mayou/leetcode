@@ -17,7 +17,7 @@ Output: [1,1,2,3,4,4]
 
 ## Approach
 
-**Iterative**
+### Iterative
 
 The easiest way to solve this problem with minimal edge case handling is to start with `dummy` and `curr` (current) pointer that references a single node. We iterate and add a reference to the head of the list with the lowest value to `curr.next` until one list is empty.
 
@@ -49,7 +49,7 @@ class Solution:
         return dummy.next
 ```
 
-**Recursive**
+### Recursive
 
 The recursive approach is similar as the base case is where only one list has remaining nodes. With this solution, our subproblem is merging the two list minus the node with the lowest value.
 
