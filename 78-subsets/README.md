@@ -4,7 +4,7 @@ Given an integer array `nums` of unique elements, return all possible subsets (t
 
 The solution set must not contain duplicate subsets. Return the solution in any order.
 
-**Example**
+### Example
 
 ```
 Input: nums = [1,2,3]

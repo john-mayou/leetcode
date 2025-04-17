@@ -19,7 +19,7 @@ M             1000
 
 Given a roman numeral, convert it to an integer.
 
-**Example**
+### Example
 
 ```
 Input: s = "III"

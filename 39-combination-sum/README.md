@@ -4,7 +4,7 @@ Given an array of distinct integers `candidates` and a target integer `target`, 
 
 The same number may be chosen from `candidates` an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different.
 
-**Example**
+### Example
 
 ```
 Input: candidates = [2,3,6,7], target = 7

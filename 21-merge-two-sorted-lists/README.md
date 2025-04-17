@@ -6,7 +6,7 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 
 Return the head of the merged linked list.
 
-**Example**
+### Example
 
 ![](example-1.jpg)
 

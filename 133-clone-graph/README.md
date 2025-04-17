@@ -13,7 +13,7 @@ class Node {
 }
 ```
 
-**Example**
+### Example
 
 ![](example-1.png)
 

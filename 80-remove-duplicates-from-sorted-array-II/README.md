@@ -2,7 +2,7 @@
 
 Given an integer array `nums` sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice. The relative order of the elements should be kept the same.
 
-**Example**
+### Example
 
 ```
 Input: nums = [1,1,1,2,2,3]

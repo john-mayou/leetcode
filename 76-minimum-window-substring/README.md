@@ -4,7 +4,7 @@ Given two strings `s` and `t` of lengths `m` and `n` respectively, return the mi
 
 The testcases will be generated such that the answer is unique.
 
-**Example**
+### Example
 
 ```
 Input: s = "ADOBECODEBANC", t = "ABC"
